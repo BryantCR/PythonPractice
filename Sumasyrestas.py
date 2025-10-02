@@ -1,4 +1,3 @@
-# Script de sumas y restas en Python con comentarios explicativos
 
 # Definimos una función para sumar dos números
 def sumar(a, b):
