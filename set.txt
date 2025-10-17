@@ -1,0 +1,1 @@
+Es una estructura de python para no tener replicados en una lista
