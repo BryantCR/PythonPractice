@@ -1,0 +1,1 @@
+print("El nombre de tu empresa será: \n \"" + (input("Dime tu nombre: ")) + " " + (input("Dime de que trata tu empresa: ")) + "\"")
