@@ -19,9 +19,10 @@ print(round(valor))
 
 #Calcula la raíz cuadrada de 5, y muestra en pantalla el resultado redondeado con 4 posiciones decimales.
 valor = 5**0.5
-
 print(round(valor, 4))
 
-
-
+#Verifica si la raíz cuadrada de 25 es igual a 5 y muestra el resultado (booleano) en pantalla utilizando print()
+var = 25**0.5
+var2 = 5
+print(var == var2)
 
